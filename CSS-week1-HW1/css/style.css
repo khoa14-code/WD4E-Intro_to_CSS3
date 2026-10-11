@@ -2,3 +2,47 @@ body{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 150%;
 }
+/* Bước 3: Thẻ nội dung (body) - họ phông chữ và kích thước phông chữ */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+/* Bước 4: Thẻ tiêu đề (header) - màu nền */
+header {
+    background-color: #e0f7fa;
+}
+
+/* Bước 5: Thẻ nav - màu nền */
+nav {
+    background-color: #b2ebf2;
+}
+
+/* Bước 6: Thẻ chính (main) - màu nền và kích thước phông chữ */
+main {
+    background-color: #e0f2f1;
+    font-size: 18px;
+}
+
+/* Bước 7: Thẻ chân trang (footer) - màu nền */
+footer {
+    background-color: #80deea;
+}
+
+/* Bước 8: Thẻ li - hiển thị và chiều rộng */
+li {
+    display: inline-block;
+    width: 150px;
+}
+
+/* Bước 9: Thẻ h1 - căn chỉnh văn bản, họ phông chữ và màu sắc */
+h1 {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    color: #005662;
+}
+
+/* Bước 10: Thẻ p - chiều cao dòng */
+p {
+    line-height: 1.6;
+}
